@@ -1,0 +1,142 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Console",
+        "repositoryURL": "https://github.com/vapor/console.git",
+        "state": {
+          "branch": "nio",
+          "revision": "9fc7ee2bd766b8f0141195eff9e25078022c6c40",
+          "version": null
+        }
+      },
+      {
+        "package": "Core",
+        "repositoryURL": "https://github.com/vapor/core.git",
+        "state": {
+          "branch": "nio",
+          "revision": "bc1e6366c67e70e07cecd5647f7391ddd90a2e1f",
+          "version": null
+        }
+      },
+      {
+        "package": "Crypto",
+        "repositoryURL": "https://github.com/vapor/crypto.git",
+        "state": {
+          "branch": "nio",
+          "revision": "d23c37472d778179eb0ea370d4bf4bd8e995b5ef",
+          "version": null
+        }
+      },
+      {
+        "package": "DatabaseKit",
+        "repositoryURL": "https://github.com/vapor/database-kit.git",
+        "state": {
+          "branch": "nio",
+          "revision": "762b8f51ba343bdd080e70218854e8f49a2f9711",
+          "version": null
+        }
+      },
+      {
+        "package": "Engine",
+        "repositoryURL": "https://github.com/vapor/engine.git",
+        "state": {
+          "branch": "nio",
+          "revision": "f01573743d22fa6f7c4d59f4d111a4e02f4d7966",
+          "version": null
+        }
+      },
+      {
+        "package": "Fluent",
+        "repositoryURL": "https://github.com/vapor/fluent.git",
+        "state": {
+          "branch": "nio",
+          "revision": "c26dc6ccf4f007cdbedda582a7d8b7c1341da1a6",
+          "version": null
+        }
+      },
+      {
+        "package": "FluentPostgreSQL",
+        "repositoryURL": "https://github.com/vapor/fluent-postgresql.git",
+        "state": {
+          "branch": "nio",
+          "revision": "8e1cf79eb186e0266e1b9ceea5238b3d5ad9d08b",
+          "version": null
+        }
+      },
+      {
+        "package": "PostgreSQL",
+        "repositoryURL": "https://github.com/vapor/postgresql.git",
+        "state": {
+          "branch": "nio",
+          "revision": "9f90100a9d25b8b46877c3a547a19c31c92eb578",
+          "version": null
+        }
+      },
+      {
+        "package": "Routing",
+        "repositoryURL": "https://github.com/vapor/routing.git",
+        "state": {
+          "branch": "nio",
+          "revision": "e1daf63a4891a8a1ab30723dd05d32440fe8f774",
+          "version": null
+        }
+      },
+      {
+        "package": "Service",
+        "repositoryURL": "https://github.com/vapor/service.git",
+        "state": {
+          "branch": "nio",
+          "revision": "d51d6d00c77e1032ba6ae425f3330da9455852d8",
+          "version": null
+        }
+      },
+      {
+        "package": "swift-nio",
+        "repositoryURL": "https://github.com/apple/swift-nio.git",
+        "state": {
+          "branch": null,
+          "revision": "4fb0cc68fee45d2ae714484b5979316943ef1f24",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "swift-nio-zlib-support",
+        "repositoryURL": "https://github.com/apple/swift-nio-zlib-support.git",
+        "state": {
+          "branch": null,
+          "revision": "37760e9a52030bb9011972c5213c3350fa9d41fd",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "TemplateKit",
+        "repositoryURL": "https://github.com/vapor/template-kit.git",
+        "state": {
+          "branch": "nio",
+          "revision": "e53e7abad486e6cc38877ecd35b7177ab3a19e12",
+          "version": null
+        }
+      },
+      {
+        "package": "Validation",
+        "repositoryURL": "https://github.com/vapor/validation.git",
+        "state": {
+          "branch": null,
+          "revision": "683af11976a732584baf339483aa3206734c913b",
+          "version": "2.0.0-rc.1"
+        }
+      },
+      {
+        "package": "Vapor",
+        "repositoryURL": "https://github.com/vapor/vapor.git",
+        "state": {
+          "branch": "nio",
+          "revision": "4a2f2d5c47a7b5d7c0caa4797adbedf85ffa356d",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
